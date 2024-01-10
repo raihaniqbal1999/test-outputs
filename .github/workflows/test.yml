@@ -1,4 +1,4 @@
-name: terraform destroy lighthouse
+name: terraform outputs
 on:
  workflow_dispatch:
       
